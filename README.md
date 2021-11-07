@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on research in quantum technologies at [Tim Byrnes group at NYU Shanghai](https://nyu.timbyrnes.net/).
 - ✍🏻 I keep my publication list and my tech blog on [my website](https://mareknarozniak.com/).
 - 🤖 In my free time I contribute to [Grin cryptocurrency](https://grin.mw/).
+- Recently I started to livestream some 🎙️ quantum programming and also some 🕹️ games, full list of recrodings is [here](https://mareknarozniak.com/live/).
 - I want to learn about 🌱 Category Theory and 🌱 Zero Knowledge Proofs.
 - You can reach me on 📫 [twitter](https://twitter.com/MarekNarozniak) and 📫 [LinkedIn](https://www.linkedin.com/in/mareknarozniak/).
 
